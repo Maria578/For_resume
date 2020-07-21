@@ -14,3 +14,5 @@ Algorithms: SVC, Random Forest, GradientBoosting, LightGBM
 Concrete dataset, prediction of Strength field (NN in Keras)
 
 ## Parsing
+BeautifulSoup
+Xpath
