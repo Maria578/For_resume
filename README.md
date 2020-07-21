@@ -1,4 +1,7 @@
 ## Regression in Keras_Concrete dataset
+Source: Coursera
+Introduction to Deep Learning & Neural Networks with Keras by IBM (final assignment)
+
 Task: to predict the field Strength
 
 What was done:
