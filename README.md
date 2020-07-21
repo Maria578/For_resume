@@ -1,4 +1,4 @@
-## Concrete dataset
+## Regression in Keras_Concrete dataset
 Task: to predict the field Strength
 
 What was done:
