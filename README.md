@@ -3,8 +3,11 @@
 Here are four notebooks that I created for my term paper that was dedicated to the application of neural network models for melanoma detection.
 
 I trained several models on the same dataset to compare different approaches:
+
 •	Simple neural network with fully connected 
+
 •	Convolutional Neural Network
+
 •	Transfer learning algorithms with prebuilt architecture (Inception, MobileNet, Xception)
 
 For all models input size of images was 256x256x3. As an optimizer was used stochastic gradient descent (Adam optimizer), and categorical crossentropy as a loss function. After the training of the model, the best coefficients were saved to be used later for evaluation.
