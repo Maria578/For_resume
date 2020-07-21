@@ -1,6 +1,6 @@
-# Branches
-
-## Computer vision techniques in melanoma detection 
-Several neural networks were built and compared: Fully connected NN, Convolutional Neural Network, Transfer learning algorithms with prebuilt architecture (Inception, MobileNet, Xception)
-
-Data source: ISIC dataset 
+## Concrete dataset
+Task: to predict the field Strength
+What was done:
+- model in Keras with one hidden layer of 10 nodes
+- model in Keras with Three hidden layers of 10 nodes
+ReLU activation function, adam optimizer and the mean squared error as the loss function
